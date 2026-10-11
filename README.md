@@ -12,18 +12,21 @@ Sistema para controlar al equipo de vendedores en campo: cargas de stock con aut
 
 - **Stack**: React + Vite, TansTack Query, Kotlin, Jetpack Compose, Supabase (RLS, Edge Functions, PostgreSQL, Auth), JavaScript
 
+[Respositorio](https://github.com/botanas-getsemani-2026/sistema-getsemani.git)
+
 ## 🛠️ Stack
 
 **Lo he usado en proyectos reales**
 - **Backend:** <img src="https://cdn.simpleicons.org/nodedotjs" height="16" alt="" /> Node.js · <img src="https://cdn.simpleicons.org/javascript" height="16" alt="" /> JavaScript · REST · WebSockets · <img src="https://cdn.simpleicons.org/supabase" height="16" alt="" /> Supabase (Auth, RPC, Edge Functions)
 - **Bases de datos:** <img src="https://cdn.simpleicons.org/postgresql" height="16" alt="" /> PostgreSQL (RLS) · <img src="https://cdn.simpleicons.org/mariadb/B8B8B8" height="16" alt="" /> MariaDB (stored procedures, triggers)
 - **Frontend:** <img src="https://cdn.simpleicons.org/react" height="16" alt="" /> React · TanStack Query
+- **Mobile**: <img src="https://cdn.simpleicons.org/kotlin" height="16" alt="" />  Kotlin y <img src="https://cdn.simpleicons.org/jetpackcompose" height="16" alt="" /> Jetpack Compose
 - **Herramientas:** <img src="https://cdn.simpleicons.org/git" height="16" alt="" /> Git · <img src="https://cdn.simpleicons.org/github/B8B8B8" height="16" alt="" /> GitHub
 
 📖 **Aprendiendo**
-- <img src="https://cdn.simpleicons.org/express" height="16" alt="" /> Express.js · <img src="https://cdn.simpleicons.org/typescript" height="16" alt="" /> TypeScript
+- <img src="https://cdn.simpleicons.org/express/B8B8B8" height="16" alt="" /> Express.js · <img src="https://cdn.simpleicons.org/typescript" height="16" alt="" /> TypeScript
 
-**También (proyectos académicos):** Java y MySQL, Kotlin y Firebase
+**También (proyectos académicos):** Java y MySQL
 
 ## 📫 Contacto
 [correo](dilan.enrique.sm@gmail.com) &middot; [LinkedIn](www.linkedin.com/in/dilansanchez) &middot; [CV](https://drive.google.com/file/d/1ti30jC6mjVTwCe_ZiN-ZE31BZTjHndEL/view?usp=sharing)
