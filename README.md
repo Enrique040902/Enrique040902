@@ -1,4 +1,4 @@
-<h1 align='center'>¡Que tal! Soy Enrique Sánchez 👨‍💻 </h1>
+<h1 align='center'>¡Qué tal! Soy Enrique Sánchez 👨‍💻 </h1>
 
 **⚙️ Full Stack Developer** | **🇲🇽 Ubicado en Veracruz, México**
 
@@ -6,7 +6,7 @@ _Soy desarrollador Full Stack, con enfoque en Backend, me gusta crear sistemas o
 
 ## 🚀 Proyecto destacado.
 
-**Sistema Getsemani**
+**Sistema Getsemaní**
 
 Sistema para controlar al equipo de vendedores en campo: cargas de stock con autorización, ventas, clientes y cálculo de comisiones por periodo. Incluye un panel web y una app Android.
 
@@ -17,14 +17,14 @@ Sistema para controlar al equipo de vendedores en campo: cargas de stock con aut
 ## 🛠️ Stack
 
 **Lo he usado en proyectos reales**
-- **Backend:** <img src="https://cdn.simpleicons.org/nodedotjs" height="16" alt="" /> Node.js · <img src="https://cdn.simpleicons.org/javascript" height="16" alt="" /> JavaScript · REST · WebSockets · <img src="https://cdn.simpleicons.org/supabase" height="16" alt="" /> Supabase (Auth, RPC, Edge Functions)
-- **Bases de datos:** <img src="https://cdn.simpleicons.org/postgresql" height="16" alt="" /> PostgreSQL (RLS) · <img src="https://cdn.simpleicons.org/mariadb/B8B8B8" height="16" alt="" /> MariaDB (stored procedures, triggers)
-- **Frontend:** <img src="https://cdn.simpleicons.org/react" height="16" alt="" /> React · TanStack Query
-- **Mobile**: <img src="https://cdn.simpleicons.org/kotlin" height="16" alt="" />  Kotlin y <img src="https://cdn.simpleicons.org/jetpackcompose" height="16" alt="" /> Jetpack Compose
-- **Herramientas:** <img src="https://cdn.simpleicons.org/git" height="16" alt="" /> Git · <img src="https://cdn.simpleicons.org/github/B8B8B8" height="16" alt="" /> GitHub
+- **Backend:** <img src="https://cdn.simpleicons.org/nodedotjs" height="18" alt="" /> Node.js · <img src="https://cdn.simpleicons.org/javascript" height="18" alt="" /> JavaScript · REST · WebSockets · <img src="https://cdn.simpleicons.org/supabase" height="18" alt="" /> Supabase (Auth, RPC, Edge Functions)
+- **Bases de datos:** <img src="https://cdn.simpleicons.org/postgresql/4796FF" height="18" alt="" /> PostgreSQL (RLS) · <img src="https://cdn.simpleicons.org/mariadb/B8B8B8" height="18" alt="" /> MariaDB (stored procedures, triggers)
+- **Frontend:** <img src="https://cdn.simpleicons.org/react" height="18" alt="" /> React · TanStack Query
+- **Mobile**: <img src="https://cdn.simpleicons.org/kotlin" height="18" alt="" />  Kotlin y <img src="https://cdn.simpleicons.org/jetpackcompose" height="18" alt="" /> Jetpack Compose
+- **Herramientas:** <img src="https://cdn.simpleicons.org/git" height="18" alt="" /> Git · <img src="https://cdn.simpleicons.org/github/B8B8B8" height="18" alt="" /> GitHub
 
 📖 **Aprendiendo**
-- <img src="https://cdn.simpleicons.org/express/B8B8B8" height="16" alt="" /> Express.js · <img src="https://cdn.simpleicons.org/typescript" height="16" alt="" /> TypeScript
+- <img src="https://cdn.simpleicons.org/express/B8B8B8" height="18" alt="" /> Express.js · <img src="https://cdn.simpleicons.org/typescript" height="18" alt="" /> TypeScript
 
 **También (proyectos académicos):** Java y MySQL
 
