@@ -15,13 +15,13 @@ Sistema para controlar al equipo de vendedores en campo: cargas de stock con aut
 ## 🛠️ Stack
 
 **Lo he usado en proyectos reales**
-- **Backend:** <img src="https://cdn.simpleicons.org/nodedotjs/6e7681" height="16" alt="" /> Node.js · <img src="https://cdn.simpleicons.org/javascript/6e7681" height="16" alt="" /> JavaScript · REST · WebSockets · <img src="https://cdn.simpleicons.org/supabase/6e7681" height="16" alt="" /> Supabase (Auth, RPC, Edge Functions)
-- **Bases de datos:** <img src="https://cdn.simpleicons.org/postgresql/6e7681" height="16" alt="" /> PostgreSQL (RLS) · <img src="https://cdn.simpleicons.org/mariadb/6e7681" height="16" alt="" /> MariaDB (stored procedures, triggers)
-- **Frontend:** <img src="https://cdn.simpleicons.org/react/6e7681" height="16" alt="" /> React · TanStack Query
-- **Herramientas:** <img src="https://cdn.simpleicons.org/git/6e7681" height="16" alt="" /> Git · <img src="https://cdn.simpleicons.org/github/6e7681" height="16" alt="" /> GitHub
+- **Backend:** <img src="https://cdn.simpleicons.org/nodedotjs" height="16" alt="" /> Node.js · <img src="https://cdn.simpleicons.org/javascript" height="16" alt="" /> JavaScript · REST · WebSockets · <img src="https://cdn.simpleicons.org/supabase" height="16" alt="" /> Supabase (Auth, RPC, Edge Functions)
+- **Bases de datos:** <img src="https://cdn.simpleicons.org/postgresql" height="16" alt="" /> PostgreSQL (RLS) · <img src="https://cdn.simpleicons.org/mariadb/B8B8B8" height="16" alt="" /> MariaDB (stored procedures, triggers)
+- **Frontend:** <img src="https://cdn.simpleicons.org/react" height="16" alt="" /> React · TanStack Query
+- **Herramientas:** <img src="https://cdn.simpleicons.org/git" height="16" alt="" /> Git · <img src="https://cdn.simpleicons.org/github/B8B8B8" height="16" alt="" /> GitHub
 
 📖 **Aprendiendo**
-- <img src="https://cdn.simpleicons.org/express/6e7681" height="16" alt="" /> Express.js · <img src="https://cdn.simpleicons.org/typescript/6e7681" height="16" alt="" /> TypeScript
+- <img src="https://cdn.simpleicons.org/express" height="16" alt="" /> Express.js · <img src="https://cdn.simpleicons.org/typescript" height="16" alt="" /> TypeScript
 
 **También (proyectos académicos):** Java y MySQL, Kotlin y Firebase
 
