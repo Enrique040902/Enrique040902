@@ -1,4 +1,4 @@
-<h1 align='center'>¡Que tal!, soy Enrique Sánchez 😃</h1>
+<h1 align='center'>¡Que tal! Soy Enrique Sánchez 😃</h1>
 
 **⚙️ Full Stack Developer** | **🇲🇽 Ubicado en Veracruz, México**
 
