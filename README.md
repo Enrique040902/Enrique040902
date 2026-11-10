@@ -10,9 +10,9 @@ _Soy desarrollador Full Stack, con enfoque en Backend, me gusta crear sistemas o
 
 Sistema para controlar al equipo de vendedores en campo: cargas de stock con autorización, ventas, clientes y cálculo de comisiones por periodo. Incluye un panel web y una app Android.
 
-- **Stack**: React + Vite, TansTack Query, Kotlin, Jetpack Compose, Supabase (RLS, Edge Functions, PostgreSQL, Auth), JavaScript
+- **Stack**: React + Vite, TanStack Query, Kotlin, Jetpack Compose, Supabase (RLS, Edge Functions, PostgreSQL, Auth), JavaScript
 
-[Respositorio](https://github.com/botanas-getsemani-2026/sistema-getsemani.git)
+[Repositorio](https://github.com/botanas-getsemani-2026/sistema-getsemani.git)
 
 ## 🛠️ Stack
 
